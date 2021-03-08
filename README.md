@@ -25,7 +25,7 @@ The repository implements a list of CNN blocks/networks based on TensorFlow 2.x,
 
 
 ## [Demo]
-The test data [test_data.npy](.test_data.npy) and [test.py](.test.py) script give a demo for using these CNN based blocks/networks.    
+The test data [test_data.npy](test_data.npy) and [test.py](test.py) script give a demo for using these CNN based blocks/networks.    
 The test data include 100 samples with the shape (24, 16, 2).    
 The demo implements a encoder-decoder model to conduct self-supervised learning for embeddings learning.    
 
